@@ -12,4 +12,3 @@ print(names[2])
 
 #let's greet some names! 3.2
 print("Hello " + names[0] + ".\n" + "Hello " + names[1] + ".\n" + "Hello " + names[2] + ".")
-print("Hello " + names[0] + ".\n" + "Hello " + names[1] + ".\n" + "Hello " + names[2] + ".")
