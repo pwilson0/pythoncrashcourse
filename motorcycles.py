@@ -39,4 +39,3 @@ print("Whew, " + deadpoets[1].title() + ", so glad we were able to ditch those b
 del deadpoets[0]
 del deadpoets[0]
 print(deadpoets)
-print(deadpoets)
